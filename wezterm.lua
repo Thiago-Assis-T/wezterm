@@ -13,7 +13,8 @@ end
 -- This is where you actually apply your config choices
 
 -- For example, changing the color scheme:
-config.color_scheme = 'TokyonightNight'
+config.color_scheme = 'tokyonight_night'
+config.window_background_opacity = 0.5
 
 -- and finally, return the configuration to wezterm
 return config
