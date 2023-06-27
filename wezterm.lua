@@ -13,7 +13,7 @@ local config = {
     force_reverse_video_cursor = true,
     hide_tab_bar_if_only_one_tab = true,
     adjust_window_size_when_changing_font_size = true,
-    max_fps = 60,
+    max_fps = 70,
 }
 
 return config
