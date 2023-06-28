@@ -15,6 +15,7 @@ local config = {
     adjust_window_size_when_changing_font_size = true,
     max_fps = 70,
     enable_wayland = true,
+    hide_mouse_cursor_when_typing = true,
 }
 
 return config
